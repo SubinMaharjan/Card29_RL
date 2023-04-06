@@ -26,9 +26,9 @@ While most players today do not count the extra point for the last trick, the ga
 - Keras 2.0 or higher
 ## Images
 
-![bots1](https://user-images.githubusercontent.com/60442599/230401389-e0a138fe-211e-4ec7-b383-82af722ec04b.png)
+![bots1](https://user-images.githubusercontent.com/60442599/230402452-24ff0a07-8242-4876-af72-7eb94db8be1f.png)
 
-![bots1](https://user-images.githubusercontent.com/60442599/230402187-1cbc1a7f-fab7-4e95-bd1f-1f5cd0b80950.png)
+![bots2](https://user-images.githubusercontent.com/60442599/230402591-e8100edb-720e-4b8c-8f7e-48d49740467f.png)
 
 
 ## Getting Started
