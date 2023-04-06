@@ -33,7 +33,11 @@ While most players today do not count the extra point for the last trick, the ga
 
 ## Getting Started
 
+To run the Card29 game with reinforcement learning, first clone this repository:
+
+```bash
 git clone https://github.com/SubinMaharjan/Card29_RL.git
+```
 
 Next, install the required dependencies using pip:
 
