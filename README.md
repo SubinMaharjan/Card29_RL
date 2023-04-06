@@ -28,7 +28,7 @@ While most players today do not count the extra point for the last trick, the ga
 
 ![bots1](https://user-images.githubusercontent.com/60442599/230401389-e0a138fe-211e-4ec7-b383-82af722ec04b.png)
 
-![bots2](https://user-images.githubusercontent.com/60442599/230401462-11af555c-02de-444e-a04c-c7b206fc3d20.png)
+![bots1](https://user-images.githubusercontent.com/60442599/230402187-1cbc1a7f-fab7-4e95-bd1f-1f5cd0b80950.png)
 
 
 ## Getting Started
